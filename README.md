@@ -1,3 +1,5 @@
+![title](ltfs2.jpg)
+
 # LTFS Data Science FinHack 2
 
 LTFS receives a lot of requests for its various finance offerings that include housing loan, two-wheeler loan, real estate financing and micro loans. The number of applications received is something that varies a lot with season. Going through these applications is a manual process and is tedious. Accurately forecasting the number of cases received can help with resource and manpower management resulting into quick response on applications and more efficient processing.
@@ -32,6 +34,7 @@ Note that feasibility of implementation of top solutions will be considered whil
 Public and Private Split Test data is further divided into Public (1st Month) and Private (Next 2 months)
 
 # Leaderboard
+## Team:  Nodus Tollens (Chetan + Rajat)
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **22th/883 Rank**
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **25th/883 Rank**
