@@ -36,8 +36,8 @@ Public and Private Split Test data is further divided into Public (1st Month) an
 # Leaderboard
 ## Team:  Nodus Tollens (Chetan + Rajat)
 
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **22th/883 Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **25th/883 Rank**
+* **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **13th/883 Rank**
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **14th/883 Rank**
 
 ## Things to learn
 * Prophet for Time series (Visualisations)
